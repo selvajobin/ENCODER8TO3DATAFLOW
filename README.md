@@ -1,5 +1,6 @@
 ### ENCODER 8TO3 DATAFLOW Modelling
-
+NAME:SELVA JOBIN S
+REG NO:212223220102
 **AIM:**
 
 To implement  Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables
